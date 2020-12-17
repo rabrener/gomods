@@ -1,3 +1,3 @@
-module github.com/rabrener/gomods.git
+module github.com/rabrener/gomods
 
 go 1.15
